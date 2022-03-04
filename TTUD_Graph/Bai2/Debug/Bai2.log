@@ -1,0 +1,7 @@
+﻿  Bai2.cpp
+C:\Users\ACER\Desktop\ICT_BK\Thuật toán ứng dụng\Exercises\TTUD_Graph\Bai2\Bai2.cpp(10,28): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Bai2.vcxproj -> C:\Users\ACER\Desktop\ICT_BK\Thuật toán ứng dụng\Exercises\TTUD_Graph\Debug\Bai2.exe

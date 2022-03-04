@@ -1,0 +1,7 @@
+﻿  TTUD_Graph_L.cpp
+C:\Users\ACER\Desktop\TTUD_Graph\TTUD_Graph_L\TTUD_Graph_L.cpp(10,27): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  TTUD_Graph_L.vcxproj -> C:\Users\ACER\Desktop\TTUD_Graph\Debug\TTUD_Graph_L.exe

@@ -1,0 +1,5 @@
+﻿  TTUD_Graph_E.cpp
+C:\Users\ACER\Desktop\ICT_BK\Thuật toán ứng dụng\Exercises\TTUD_Graph\TTUD_Graph_E\TTUD_Graph_E.cpp(18,14): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\ACER\Desktop\ICT_BK\Thuật toán ứng dụng\Exercises\TTUD_Graph\TTUD_Graph_E\TTUD_Graph_E.cpp(19,14): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\ACER\Desktop\ICT_BK\Thuật toán ứng dụng\Exercises\TTUD_Graph\TTUD_Graph_E\TTUD_Graph_E.cpp(26,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  TTUD_Graph_E.vcxproj -> C:\Users\ACER\Desktop\ICT_BK\Thuật toán ứng dụng\Exercises\TTUD_Graph\Debug\TTUD_Graph_E.exe
